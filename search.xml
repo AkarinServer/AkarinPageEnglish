@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hasse K640E Reconstruction Project</title>
+    <url>/2017/05/03/K640E/</url>
+    <content><![CDATA[<p>Do not ask me why don’t I just buy a notebook …<br>In short, now has smashed nearly 700AUD……</p>
+<p>There are something allready improved：</p>
+<p>i5 4200M</p>
+<p>Atheros AR5B22</p>
+<p>8+8GB ADATA DDR3L 1600</p>
+<p>crucial MX100 256GB</p>
+<p>HGST HTS721010A9E630</p>
+<p>For sure these are easy to change.</p>
+<p>In the plann I’m going to change this rubbish BOE TN screen.</p>
+<p>Pre-selected in a Samsung’s mass production, and the other is AUO’s cut-off stuff.</p>
+<p>According to unknown users that interface and ordinary screen is not the same location… still in the study.</p>
+<p>A full set of basic to more than 800AUD</p>
+<p>Of course, some can not move … … we can … …</p>
+<p>For example, 940M right?</p>
+<p>This garbage vest card afterburner’s coreclock directly pull full can only improve 135MHz (of course, no restrictions such as voltage restrictions)</p>
+<p>Anyway, after the full heat dissipation or pressure in the 60-70 degrees or so … …</p>
+<p>Memory clock pulled out and then nvidia drive crashed …</p>
+<p>Anyway……</p>
+<p>But the voltage part of the estimate, then HM86 could not stand … …</p>
+<p>……</p>
+<p>Why don’t I just get a K650D……</p>
+]]></content>
+      <categories>
+        <category>HaseeK640E</category>
+      </categories>
+      <tags>
+        <tag>HaseeK640E</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VMware UWP Version</title>
+    <url>/2017/03/25/VMware/</url>
+    <content><![CDATA[<p>Today when I using the Windows store, I find the UWP version for VMware horizon unexpectedly.</p>
+<p>This is so surprised!</p>
+<p>Experience is really good … … although the introduction of it highlight it is beta … …（Now almost all of the UWP are written beta and closed beta（NetEase music：excuse me？））</p>
+<p>But what shocked me most was that it took up space：<br><img src="https://akarinserver.b0.upaiyun.com/images/source/vmware2.png" alt="pic"><br>Above is UWP, the following is win32 version.</p>
+<p>Microsoft ah, so the strength of how Win10M so bad it is…</p>
+]]></content>
+      <categories>
+        <category>VMware</category>
+      </categories>
+      <tags>
+        <tag>VMware</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Completely incomprehensible, Lenovo Yoga13</title>
+    <url>/2017/03/25/Yoga13/</url>
+    <content><![CDATA[<p>Lenovo Yoga13-ITH Sliver，A new ultrabook that was launched in November 2012. Its selling points are mainly concentrated in “foldable, deformable”. The machine inherits the Yoga series of consistent folding style, the mystery of the screen in the unique design.</p>
+<p>However, as a notebook in the end of 2012 at the end of 2013, its concept is ahead, its implementation is backward.</p>
+<p>I’ve got a yoga13 in here, I purchase it in 2013, now has been 3 years, the speed is still very fast, since the SSD I have not heard of which computer will become slow…</p>
+<p>The CPU is Intel core i3-3217U, this is destined to locate this machine is the daily office and watch some movies.</p>
+<p>DDR3L 4GB RAM, at that time should be considered mainstream level.</p>
+<p>Disk is 128G SSD, model is Samsung’s PM830</p>
+<p>13.3 inch, max resolution is 1600x900 Corning gorilla glass touch screen, in now it seems still very stunning and smooth.</p>
+<p>Audio systems even integrated Conexant professional audio decoder chip, also with the Dolby Home Theater sound processing technology.</p>
+<p>Support gravity sensor, support light sensor.</p>
+<p>Up to now it seems that there is no problem?</p>
+<p>How could it be, if there is no problem that there is no such article.</p>
+<h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p>The gravity of the notebook is very bad.</p>
+<p>Gravity sensing often fails and requires sleep and then wake up to start gravity sensing</p>
+<p>This gravity sensor actually only support the direction…… that is means you can not even put this computer’s gravity sensor used to play the game</p>
+<h2 id="Second"><a href="#Second" class="headerlink" title="Second"></a>Second</h2><p>The shortcut keys on the notebook</p>
+<p>After the upgrade to Windows 10 actually failed…</p>
+<p>probably is the Microsoft’s problem…</p>
+<h2 id="Third"><a href="#Third" class="headerlink" title="Third"></a>Third</h2><p>Heat dissipation is very bad.</p>
+<p>The fan turned up to hot eggs can be fried… a common problem, but in yoga13 on the design of small problems… do not elaborate…</p>
+<h2 id="Forth"><a href="#Forth" class="headerlink" title="Forth"></a>Forth</h2><p>Also I would like to highlight the point: the internal design.</p>
+<p>This is why I writing this article at the beginning.</p>
+<p>Our school has upgrade the WiFi in the new term, the 2.4GHz all replaced by 5GHz</p>
+<p>So yoga13 is not support 5GHz</p>
+<p>Then upgrade the wireless card!</p>
+<p>……</p>
+<p>Naive！</p>
+<p>This is the focus of the entire article: internal design and network card.</p>
+<p>This machine is too advanced, so that even the internal design began to “lead”, why say so?</p>
+<p>This laptop’s network card is Realtek RTL8723AU。</p>
+<p>The key is this card, is not a PCI-e card … … This is totally a USB card!</p>
+<p><img src="https://akarinserver.b0.upaiyun.com/images/yoga13/1.png" alt="pic"></p>
+<p>When I see this design, I think they should change a designer.<br><img src="https://akarinserver.b0.upaiyun.com/images/yoga13/2.jpg" alt="pic"></p>
+<p>Well, this machine is reserved a socket for msata…</p>
+<p><img src="https://akarinserver.b0.upaiyun.com/images/yoga13/3.jpg" alt="pic"></p>
+<p>Such a good place!</p>
+<p>If your socket is PCI-e I will not be so angry!</p>
+<p>This is a ultrabook for daily office! why they need two hard disk!</p>
+<p>This notebook, I only used in the class when the notes, take a look at what the page, 128GB is more than enough. This notebook i3 low voltage CPU to determine the positioning of this notebook, I can not imagine why in a clear positioning of the notebook there will be a need for a reserved port</p>
+<p>Amnesty mentally disabled by a reserved msata socket, I have wanted the designer to die in the ditch.</p>
+]]></content>
+      <categories>
+        <category>Lenovo</category>
+      </categories>
+      <tags>
+        <tag>Lenovo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Xiaomi MIJIA robot vacuum cleaner</title>
+    <url>/2017/03/25/MijiaRobot/</url>
+    <content><![CDATA[<p>Mi robot has been half month in my house, I think I can talk about the experience of the robot now.</p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><img src="https://akarinserver.b0.upaiyun.com/images/mijiarobot/1.jpg" alt="pic"></p>
+<p>Simple appearance, simple design, nice looking.</p>
+<h1 id="Get-started"><a href="#Get-started" class="headerlink" title="Get started"></a>Get started</h1><p>All Mijia series of products are basically through the Mijia APP to manage, praise.</p>
+<p>Mijia APP function fairly rich, praise.</p>
+<p>Only download when you need it, praise.</p>
+<p>Mi’s server give it negative feedback, overseas users have to refresh again and again in order to download the extension, negative feedback. (By the way, Xiaomi’s official website mi.com is so bad, because Xiaomi’s cache server domain name is .cn, too slow.)</p>
+<h1 id="Real-test"><a href="#Real-test" class="headerlink" title="Real test"></a>Real test</h1><p>Have to say that the Mijia APP itself is easy to use and SLAM algorithm is really not a joke.<br><img src="https://akarinserver.b0.upaiyun.com/images/mijiarobot/2.png" alt="pic"></p>
+<p>This is a map after the complete sweep.</p>
+<p>First of all we see: the upper left corner of the part because there is a sliding door restrictions, that part can be ignored.</p>
+<p>The middle of the two semicircle there are some inexplicable overflow, I can only say that this is not robot’s problem, because the two semi-circular walls are not ordinary walls, the two parts are glass … … so it is estimated that the machine can not scan there…</p>
+<p>In general, the robot sweep it very full, very fine. Every corner can guarantee cleaning.</p>
+<h1 id="Battery-Life-and-speed"><a href="#Battery-Life-and-speed" class="headerlink" title="Battery Life and speed"></a>Battery Life and speed</h1><p><img src="https://akarinserver.b0.upaiyun.com/images/mijiarobot/3.png" alt="pic"></p>
+<p>In one minute it can sweep 0.95 square meters, run out of 19% of the electricity left, and sure enough the robot’s battery is really powerful.</p>
+<h1 id="Price"><a href="#Price" class="headerlink" title="Price"></a>Price</h1><p>My dad purchase this at first.</p>
+<p><a href="http://www.ebay.com.au/itm/7-in-1-Vacuum-Cleaner-LED-Robotic-Automatic-Recharge-Floor-Sweeper-Mop-Robot-Red-/350884454064?hash=item51b257deb0:g:w7UAAOSwknJX1huD" target="_blank" rel="noopener">7 in 1 Vacuum Cleaner LED Robotic Automatic Recharge Floor Sweeper Mop Robot Red | eBay</a></p>
+<p>This rubbish still sells in 349.95AUD.</p>
+<p>After we buy it we find that it always stuck.</p>
+<p>And the Mijia Robot only cost 1699 RMB (appx. 333AUD)</p>
+<h1 id="Firmware-update"><a href="#Firmware-update" class="headerlink" title="Firmware update"></a>Firmware update</h1><p>There is a firmware 3.3.6_003028, in this firmware they add a function that can remote the robot.</p>
+<h1 id="Maintenance-issues"><a href="#Maintenance-issues" class="headerlink" title="Maintenance issues"></a>Maintenance issues</h1><p>Recently it can only around a small circle around their own sweep a small circle to go back, have a check after consulted the engineer, clean up the corner of the dust just fine.</p>
+<p>Only can say that it needs good care and maintenance. _(:зゝ∠)_<br><img src="https://akarinserver.b0.upaiyun.com/images/mijiarobot/4.png" alt="pic"></p>
+<p>In summary, the price of 1699, I think, is quite worth buying.</p>
+<p>(When the robot stuck by the floor, you can use the APP to force restart it.)</p>
+]]></content>
+      <categories>
+        <category>MiRobot</category>
+      </categories>
+      <tags>
+        <tag>MiRobot</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lumia 435 Open Box</title>
+    <url>/2017/03/25/Lumia435/</url>
+    <content><![CDATA[<p>Sells for 80AUD, brand new.<br>Ok, let’s see the specifications.</p>
+<p>CPU：Qualcomm Snapdragon 200</p>
+<p>（Four core processor, single speed can up to 1.2 GHz）（ 4x ARM® Cortex™ A7）</p>
+<p>GPU：Adreno 302</p>
+<p>Screen：A 480*800 WVGA TFT Screen, 235dpi</p>
+<p>RAM：1GB LPDDR2</p>
+<p>ROM：8GB</p>
+<p>Battery：1560mAh</p>
+<p>Camera：rear 2 million，front 0.3 million……</p>
+<p>Can use SD card，already have a 32GB Samsung SD orange card.</p>
+<p>System：Windows 10 Mobile 16055</p>
+<p>Let’s talk about experience first.</p>
+<p>At first is Windows phone 8.1, I am a capital of the secretly. Because I never use Windows Phone.</p>
+<p>After trun on, it is the same with Android, it needs input many data, but it sucks at the installing apps…My mood is really a collapse, a cell phone to take back actually have to wait 30 minutes to use … … (here refers to the Windows Phone 8.1)</p>
+<p>I am not interested to experience WP 8.1, direct upgrade Win10M.</p>
+<p>Then I was stuck in the upgrade assistant. Yes, my account is under 18 years old, Microsoft, you …</p>
+<p>So I go to apply for a new Microsoft account …</p>
+<p>And then upgrade with a full two or three hours … …</p>
+<p>Then I was familiar with the Windows 10 interface.</p>
+<p>Of course not finished, just upgrade the version number is 10586.1xx (do not remember), have to upgrade 14393 … … another several hours … …</p>
+<p>—————Above is that you just got the new Lumia should do.—————</p>
+<p>Then, what I surprise is that this phone won’t heat</p>
+<p>Really, it won’t heat.</p>
+<p>It seems funny. How can Qualcomm Snapdragon 200 be heat? After all the performance is so weak.</p>
+<p>Win10M looks very similar with Windows 10, so some of the computer can not explain why the design of the place on the phone is extremely clear, such as the background of the design, there is a waste of space magnetic paste … …</p>
+<p>But not polite to say, WP 8.1 design and layout is really sucks, all comes with large fonts, until the Win10M design came out is better, I’m not using Nokia 3310 isn’t it?</p>
+<p>In general, the application of less … … features less, but it shows what a UWP phone should have, and UWP unlimited possibilities.</p>
+<p>For sure…</p>
+<p>Only one battery, comes with the charging head is not even a USB charging head plus a data cable, but even up … …</p>
+<p>Charging speed is not a big deal, do not say something like 5V2A, and comes with the charging head actually only have poor 5V0.5A around … …</p>
+<p>I can only say that Microsoft does have the strength to use snapdragon 410 to make the same experience with snapdragon 600 on Android.</p>
+<p>Of course, UWP is also imperfect, such as Microsoft will never tell you what happened, will only give you a wrong code, such as UWP does not support the input method.</p>
+<p>Cortana in the search inside the start, the ace application to start hidden so deep, I am curious Microsoft is silly or not … …</p>
+<p>Battery life can totally support for whole day, consider it only have 1560mAh.</p>
+<p>Sometimes will have “recoverying”.</p>
+<p>There is no problem with Asphalt 8. Runs stable. Not joking. I only can say that barely able to open, but the number of frames is too bad.</p>
+<p>I really do not know the boast Qualcomm’s Adreno 302 or the boast UWP optimization …</p>
+<p>APP is still a problem. Too less.</p>
+<p>Overall as a low-end machine, it played beyond the level I expected.</p>
+<p>This is what I found a small bright spot: double-click can actually bright screen! This is the ultra-low-end mobile phone … … Microsoft what are you thinking … …</p>
+<p>But there is a crash thing: the status bar no remaining battery percentage! Be sure to drop down to see!</p>
+<p>Status bar battery percentage is more important than the double-click wake up!</p>
+<p>Well, said so much, be regarded the guys never touched the Windows 10 Mobile a little literacy.</p>
+]]></content>
+      <categories>
+        <category>Lumia</category>
+      </categories>
+      <tags>
+        <tag>Lumia</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Add an useless authentication for your website</title>
+    <url>/2017/01/16/Authentication/</url>
+    <content><![CDATA[<p>In fact, not necessarily how safe, that is, casually block some things to prevent trouble……<br>First, in your /home create a file called htpasswd.</p>
+<p>Then go to <a href="http://tool.oschina.net/htpasswd" target="_blank" rel="noopener">here</a>to generate your username and password，then input them into htpasswd. Encrypt way please choose Crypt.</p>
+<p>In Nginx’s conf add</p>
+<p><code>auth_basic &quot;Please provide password&quot;;</code><br><code>auth_basic_user_file /home/htpasswd;</code></p>
+<p>That’s it.<br>This simple 401 can prevent trouble with the role of anti-theft chain.</p>
+]]></content>
+      <categories>
+        <category>Authentication</category>
+      </categories>
+      <tags>
+        <tag>Authentication</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fix</title>
+    <url>/2016/12/26/Fix/</url>
+    <content><![CDATA[<p>A little bit fix and test.</p>
+]]></content>
+      <categories>
+        <category>Fix</category>
+      </categories>
+      <tags>
+        <tag>Fix</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test</title>
+    <url>/2016/12/22/Private/</url>
+    <content><![CDATA[<h1 id="First-article"><a href="#First-article" class="headerlink" title="First article"></a>First article</h1><h4 id="Rocky-Luo"><a href="#Rocky-Luo" class="headerlink" title="Rocky Luo"></a>Rocky Luo</h4><p>Yeah, that’s it. Still researching. Nothing good. Just for displaying.</p>
+]]></content>
+  </entry>
+</search>
